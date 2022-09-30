@@ -1,7 +1,7 @@
 # lru-cache-simulator
 Counts data cache hits, misses, and evictions based on a least-recently-used replacement policy.
 
-This program is part of my solution to the Self-Study Cache Lab from Computer Systems: A Programmer's Perspective by Randal Bryant and David O'Hallaron.  
+This program is part of my solution to the Self-Study Cache Lab from *Computer Systems: A Programmer's Perspective* by Randal Bryant and David O'Hallaron.  
 
 More information about this lab and the book can be found at the following link: http://csapp.cs.cmu.edu/3e/home.html
 
